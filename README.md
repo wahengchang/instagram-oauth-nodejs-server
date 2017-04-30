@@ -1,6 +1,8 @@
 # instagram-oauth-nodejs-server
 It is a template is ready to use, setting up a Node.js server for Intagram-API OAuth purpose.
 
+[Blog](https://hackernoon.com/instagramapi-set-up-nodejs-server-to-get-access-token-in-3-step-34c66039cffc)
+
 ## Things we need
  - Create an Instagram Application
  - Copy Client ID and Client Secret to this project
