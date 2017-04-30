@@ -29,4 +29,7 @@ $ npm start
 GET https://www.instagram.com/oauth/authorize?client_id={CLIENT_ID}&redirect_uri={http://youhost/authorize_user}&response_type=code
 ```
 
-https://github.com/wahengchang/instagram-oauth-nodejs-server
+
+## Reference
+ - [https://www.instagram.com/developer/authentication](https://www.instagram.com/developer/authentication)
+ - [https://www.npmjs.com/package/instagram-node](https://www.npmjs.com/package/instagram-node)
