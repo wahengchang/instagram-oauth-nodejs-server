@@ -1,0 +1,17 @@
+{
+  "name": "instagram-oauth-nodejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["instagram", "ig", "auth", "oauth", "api", "nodejs", "javascript"],
+  "author": "wahengchang@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "instagram-node": "^0.5.8"
+  }
+}
